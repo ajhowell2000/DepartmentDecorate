@@ -1,1 +1,7 @@
-//css  file for Site B
+p,body{font-family: cursive; font-size: 20pt}
+body{background-color: lightblue; opacity: .99}
+#StudioArt{background-color: aqua}
+#economics{background-color: beige}
+#politics{background-color: cornsilk}
+#computerscience{background-color: darkgray}
+#mathematics{background-color: floralwhite}
