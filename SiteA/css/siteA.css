@@ -1,5 +1,22 @@
 p,h1,table{font-family: fantasy;}
 body 
-{background-color:beige}
+{background-color:darksalmon}
 li
 {background-color:green;}
+.program1{
+    font-family:cursive;} 
+.program2{
+    font-family: monospace}
+.program3{
+    font-family:sans-serif }
+.program4{
+    font-family: serif}
+.program5{
+    font-family: inherit}
+.CS {width: 700px;height:300px;}
+.Math{width:650px; height: 250px }
+.polpic{width:500px;height:300}
+.eco{width:450px;height: 275px}
+.art{width: auto;height: 325}
+.Mca{width:100px;height:auto}
+.MCA{width:100px;height: auto}
